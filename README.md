@@ -14,3 +14,4 @@ windows经典软件仓库
 *  格式工厂  视频格式转换利器
 *  HEU_KMS_Activator  30.2.0
 *  Passper for RAR v3.6.0   rar密码暴力破解
+*  WPS破解激活版  [夸克网盘下载](https://pan.quark.cn/s/4a27434d561a#/list/share)
