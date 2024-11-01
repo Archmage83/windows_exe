@@ -15,3 +15,4 @@ windows经典软件仓库
 *  HEU_KMS_Activator  30.2.0
 *  Passper for RAR v3.6.0   rar密码暴力破解
 *  WPS破解激活版  [夸克网盘下载](https://pan.quark.cn/s/4a27434d561a#/list/share)
+*  adobe 2025全家桶 [百度网盘下载](https://pan.baidu.com/s/1oMm7pIamGEj1MYWO9wlk4w?pwd=fy6b)
