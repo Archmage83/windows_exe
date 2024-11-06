@@ -16,3 +16,4 @@ windows经典软件仓库
 *  Passper for RAR v3.6.0   rar密码暴力破解
 *  WPS破解激活版  [夸克网盘下载](https://pan.quark.cn/s/4a27434d561a#/list/share)
 *  adobe 2025全家桶 [百度网盘下载](https://pan.baidu.com/s/1oMm7pIamGEj1MYWO9wlk4w?pwd=fy6b)
+*  福昕pdf编辑器破解版 [阿里网盘下载](https://www.alipan.com/s/b6Z4fjFWY32)
