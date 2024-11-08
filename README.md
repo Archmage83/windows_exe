@@ -18,4 +18,4 @@ windows经典软件仓库
 *  Adobe 2025全家桶 [百度网盘下载](https://pan.baidu.com/s/1oMm7pIamGEj1MYWO9wlk4w?pwd=fy6b)
 *  福昕编辑器2024破解版  [阿里云盘下载](https://www.alipan.com/s/MHcA21yDt4e)
 *  Office2024破解版 [夸克网盘下载](https://pan.quark.cn/s/ad7d9158fa70)
- 
+*  Ventoy 重装系统神器 [官网链接](https://www.ventoy.net/cn/index.html)
