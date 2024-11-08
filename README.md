@@ -19,3 +19,4 @@ windows经典软件仓库
 *  福昕编辑器2024破解版  [阿里云盘下载](https://www.alipan.com/s/MHcA21yDt4e)
 *  Office2024破解版 [夸克网盘下载](https://pan.quark.cn/s/ad7d9158fa70)
 *  Ventoy 重装系统神器 [官网链接](https://www.ventoy.net/cn/index.html)
+*  数字人民币 windows破解软件下载站  [官网链接](https://itrmb.com)
