@@ -12,5 +12,5 @@ windows经典软件仓库
 *  cad2024破解版 [网盘下载链接](https://pan.quark.cn/s/bb4229212b1b)
 *  万兴pdf转换器 [网盘下载链接](https://pan.quark.cn/s/6e7d684a2e34)
 *  格式工厂  视频格式转换利器
-*  HEU_KMS_Activator  30.2.0
+*  HEU_KMS_Activator  42.2.0  支持激活office2024
 *  Passper for RAR v3.6.0   rar密码暴力破解
