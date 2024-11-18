@@ -6,11 +6,11 @@ windows经典软件仓库
 *  荐片播放器
 *  CC影视
 *  晨光万能pdf转换器 v3.2
-*  鲜艺AI抠图   [网盘链接下载](https://pan.quark.cn/s/dc6ada40801a)
+*  鲜艺AI抠图   [夸克网盘下载](https://pan.quark.cn/s/dc6ada40801a)
 *  Photoshop2024破解版  [天翼网盘链接 访问码：9dgc](https://cloud.189.cn/t/mMB322AZN7fa)
 *  Photoshop2023破解版  [夸克网盘下载](https://pan.quark.cn/s/6832a5cec4c4)
-*  CAD2024破解版 [网盘下载链接](https://pan.quark.cn/s/bb4229212b1b)
-*  万兴pdf转换器 [网盘下载链接](https://pan.quark.cn/s/6e7d684a2e34)
+*  CAD2024破解版 [夸克网盘下载](https://pan.quark.cn/s/bb4229212b1b)
+*  万兴pdf转换器 [夸克网盘下载](https://pan.quark.cn/s/6e7d684a2e34)
 *  格式工厂  视频格式转换利器
 *  HEU_KMS_Activator  42.2.0  支持激活office2024
 *  Passper for RAR v3.6.0   rar密码暴力破解
@@ -21,3 +21,4 @@ windows经典软件仓库
 *  Ventoy 重装系统神器 [官网链接](https://www.ventoy.net/cn/index.html)
 *  数字人民币 windows破解软件下载站  [官网链接](https://itrmb.com)
 *  驱动精灵不限速版 
+*  navicat 17.1.0破解版 [夸克网盘下载](https://pan.quark.cn/s/7c31f57e98a4)
