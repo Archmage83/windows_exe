@@ -2,9 +2,7 @@
 windows经典软件仓库
 
 
-*  柠檬影视
 *  荐片播放器
-*  CC影视
 *  晨光万能pdf转换器 v3.2
 *  鲜艺AI抠图   [夸克网盘下载](https://pan.quark.cn/s/dc6ada40801a)
 *  Photoshop2024破解版  [天翼网盘链接 访问码：9dgc](https://cloud.189.cn/t/mMB322AZN7fa)
