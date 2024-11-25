@@ -20,3 +20,4 @@ windows经典软件仓库
 *  数字人民币 windows破解软件下载站  [官网链接](https://itrmb.com)
 *  驱动精灵不限速版 
 *  navicat 17.1.0破解版 [夸克网盘下载](https://pan.quark.cn/s/7c31f57e98a4)
+*  央视频cbox_6.0.0.5免安装版 [夸克网盘下载](https://pan.quark.cn/s/94a55f140005)
