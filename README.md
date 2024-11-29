@@ -21,3 +21,5 @@ windows经典软件仓库
 *  驱动精灵不限速版 
 *  navicat 17.1.0破解版 [夸克网盘下载](https://pan.quark.cn/s/7c31f57e98a4)
 *  央视频cbox_6.0.0.5免安装版 [夸克网盘下载](https://pan.quark.cn/s/94a55f140005)
+*  GIMP 图像处理软件 [官网链接下载](https://www.gimp.org/downloads/)
+*  SpaceSniffer 磁盘分析工具 [官网链接下载](http://www.uderzo.it/main_products/space_sniffer/download.html)
