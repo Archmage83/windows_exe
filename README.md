@@ -23,3 +23,4 @@ windows经典软件仓库
 *  央视频cbox_6.0.0.5免安装版 [夸克网盘下载](https://pan.quark.cn/s/94a55f140005)
 *  GIMP 图像处理软件 [官网链接下载](https://www.gimp.org/downloads/)
 *  SpaceSniffer 磁盘分析工具 [官网链接下载](http://www.uderzo.it/main_products/space_sniffer/download.html)
+*  Navicat17永久激活  [夸克网盘下载](https://pan.quark.cn/s/95fbc30f3a60)
