@@ -27,3 +27,4 @@ windows经典软件仓库
 *  12306抢票助手 [官网链接下载](https://www.bypass.cn/)
 * KHMD v1.1 歌曲下载
 * fixWin11  windows11系统优化工具
+* windows优化大师  v2.1.5
