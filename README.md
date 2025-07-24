@@ -25,5 +25,8 @@ windows经典软件仓库
 *  SpaceSniffer 磁盘分析工具 [官网链接下载](http://www.uderzo.it/main_products/space_sniffer/download.html)
 *  Navicat17永久激活  [夸克网盘下载](https://pan.quark.cn/s/95fbc30f3a60)
 *  12306抢票助手 [官网链接下载](https://www.bypass.cn/)
-*  KHMD v1.1 歌曲下载 
+*  KHMD v1.1 歌曲下载
+*  fixWin11  windows11系统优化工具
+*  windows优化大师  v2.1.5
 *  ActivationProgram  激活windows和office
+>>>>>>> 5ad25ab2299e7f365c85b44e9d396f71c8b1d1dc
