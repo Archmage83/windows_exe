@@ -29,4 +29,5 @@ windows经典软件仓库
 *  fixWin11  windows11系统优化工具
 *  windows优化大师  v2.1.5
 *  ActivationProgram  激活windows和office
+*  一键激活office
 
