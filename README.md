@@ -30,4 +30,5 @@ windows经典软件仓库
 *  windows优化大师  v2.1.5
 *  ActivationProgram  激活windows和office
 *  一键激活office
+*  BTSOU 磁力搜索神器
 
