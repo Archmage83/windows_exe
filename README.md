@@ -31,4 +31,5 @@ windows经典软件仓库
 *  ActivationProgram  激活windows和office
 *  一键激活office
 *  BTSOU 磁力搜索神器
-
+*  驱动总裁v2.20.0.3免扫码登录绿色单文件版
+*  驱动总裁v2.20.0.3免扫码登录绿色单文件网卡版  [网盘链接]()
