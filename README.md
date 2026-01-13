@@ -33,3 +33,5 @@ windows经典软件仓库
 *  BTSOU 磁力搜索神器
 *  驱动总裁v2.20.0.3免扫码登录绿色单文件版
 *  驱动总裁v2.20.0.3免扫码登录绿色单文件网卡版  [网盘链接](https://pan.quark.cn/s/77da7a578256)
+*  Hyperdown v1.1.0  网盘下载工具
+*  geek uninstaller 卸载软件 [官网下载链接](https://geekuninstaller.com/download)
