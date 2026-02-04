@@ -36,3 +36,4 @@ windows经典软件仓库
 *  Hyperdown v1.1.0  网盘下载工具
 *  geek uninstaller 卸载软件 [官网下载链接](https://geekuninstaller.com/download)
 *  19款数据恢复软件高级破解版 [UC网盘下载链接](https://drive.uc.cn/s/20a43fb4002b4)
+*  魔法上网软件 [UC网盘下载链接](https://drive.uc.cn/s/0e3232f8989c4)
